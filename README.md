@@ -1,5 +1,8 @@
 # Hola, mi nombre es Sebastian Cáceres 👋
 
+### Frontend Developer 💻📱
+![image](https://github.com/cp-sebastian/cp-sebastian/assets/75715203/0327418a-07f2-4c27-aabc-d591a6f442b3)
+
 <!--
 **cp-sebastian/cp-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
