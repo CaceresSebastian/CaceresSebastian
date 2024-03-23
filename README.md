@@ -15,7 +15,7 @@ Estoy ansioso por adquirir más conocimientos en este campo para aplicarlos en m
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -23,6 +23,13 @@ Estoy ansioso por adquirir más conocimientos en este campo para aplicarlos en m
 [![Microsoft SQL Server](https://img.shields.io/badge/PostgreSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+https://www.linkedin.com/in/caceres-sebastian/
+
+## Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Caceres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/caceres-sebastian)
+[![Web](https://img.shields.io/badge/sebastian-caceres.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 <!--
 **cp-sebastian/cp-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
