@@ -24,8 +24,6 @@ Estoy ansioso por adquirir más conocimientos en este campo para aplicarlos en m
 </br>
 Y alguna más...
 
-https://www.linkedin.com/in/caceres-sebastian/
-
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Caceres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/caceres-sebastian)
