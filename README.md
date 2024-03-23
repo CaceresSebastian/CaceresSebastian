@@ -27,7 +27,7 @@ Y alguna más...
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Caceres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/caceres-sebastian)
-[![Web](https://img.shields.io/badge/sebastian-caceres.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+[![Web](https://img.shields.io/badge/Sebastian_Caceres.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 <!--
 **cp-sebastian/cp-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
